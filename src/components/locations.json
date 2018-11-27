@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Oriole Park at Camden Yards",
+    "type": "Sports",
+    "latitude": 39.2839022,
+    "longitude": -76.621576
+  },
+  {
+    "name": "B&O Railroad Museum",
+    "type": "Museum",
+    "latitude": 39.2854177,
+    "longitude": -76.6327098
+  },
+  {
+    "name": "Hippodrome Theatre",
+    "type": "Theatre",
+    "latitude": 39.2898001,
+    "longitude": -76.6212729
+  },
+  {
+    "name": "SoBo Cafe",
+    "type": "Cafe",
+    "latitude": 39.2769137,
+    "longitude": -76.6148812
+  },
+  {
+    "name": "Baltimore Symphony Orchestra",
+    "type": "Theatre",
+    "latitude": 39.3038857,
+    "longitude": -76.6190547
+  },
+  {
+    "name": "Patterson Park",
+    "type": "Park",
+    "latitude": 39.2891316,
+    "longitude": -76.5803289
+  }
+]
