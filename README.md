@@ -16,5 +16,5 @@ This is project was completed as a requirement for Udacity's Front End Nanodegre
 
 To try the production version of the app run NPM RUN BUILD and than NPM RUN DEPLOY
 
-or view live version here: https://mieshanw.github.io/neighborhood-map-app-/public/index.html
+or view live version here: https://mieshanw.github.io/neighborhood-map-app/public/index.html
 

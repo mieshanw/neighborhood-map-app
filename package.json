@@ -17,5 +17,5 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
   },
-  "homepage": "https://mieshanw.github.io/neighborhood-map-app-/public/index.html"
+  "homepage": "https://mieshanw.github.io/neighborhood-map-app/public/index.html"
 }
